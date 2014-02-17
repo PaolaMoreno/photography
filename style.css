@@ -93,3 +93,7 @@ header{
 header h1{
   display:inline;
 }
+
+#rights p{
+  text-align: center;
+}
