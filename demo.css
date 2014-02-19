@@ -1,18 +1,11 @@
-h1 {
-  font: 40px/60px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #9495df;
-  font-weight: 200;
-  }
 
-h2 {
-  font: 16px/20px "Helvetica Neue", Helvetica, Arial, sans-serif;
-  margin-bottom: 40px;
-  }
+
 
 #wrapper {
   top: 200px;
   width: 700px;
   margin:0 auto;
+  
   }
 
 p,h3,h4,pre {
@@ -157,7 +150,7 @@ margin-right:auto;
   position: absolute;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   top: 52%;
-  left: 10;
+  left: 55;
   opacity: 0.7;
   z-index: 3;
   text-indent: -9999px;
@@ -176,7 +169,7 @@ margin-right:auto;
 .callbacks_nav.next {
   left: auto;
   background-position: right top;
-  right: 0;
+  right: 55;
   }
 
 
